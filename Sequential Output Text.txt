@@ -1,0 +1,11 @@
+atherfawaz@ubuntu:~/xv6$ ./a.out
+CS205$ ls > y
+CS205$ cat < y | sort | uniq | wc > y1
+CS205$ cat y1
+    263     263    2135
+CS205$ rm y1
+CS205$ ls | sort | uniq | wc
+CS205$     263     263    2135
+rm y
+CS205$ 
+

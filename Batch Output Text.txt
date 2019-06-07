@@ -1,0 +1,2 @@
+atherfawaz@ubuntu:~/xv6$ ./a.out < t.sh
+atherfawaz@ubuntu:~/xv6$     264     264    2142
